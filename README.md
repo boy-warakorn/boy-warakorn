@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![boy-warakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=boy-warakorn&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **boy-warakorn/boy-warakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
